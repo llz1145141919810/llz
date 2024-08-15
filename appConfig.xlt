@@ -1,11 +1,11 @@
 {
-	"appName": "MyApp",
-	"appPackageName": "top.webcat.shgzs",
+	"appName": "音乐播放器",
+	"appPackageName": "top.webcat.app362815",
 	"appVersionName": "1.0",
 	"appVersionCode": 100000,
 	"data": {		
 		"启用顶栏": true,
-		"顶栏标题": "MyApp",
+		"顶栏标题": "wake音乐播放器",
 		"顶栏颜色": "#FF2C2E43",
 		"横屏": false,
 		"显示状态栏": true,
